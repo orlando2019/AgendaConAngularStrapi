@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_localizacion_direccions",
+  "info": {
+    "name": "direccion",
+    "icon": "map-marked-alt"
+  },
+  "options": {},
+  "attributes": {
+    "direccion": {
+      "type": "text"
+    },
+    "ciudad": {
+      "type": "string"
+    },
+    "codigo_postal": {
+      "type": "integer"
+    },
+    "latitud": {
+      "type": "float"
+    },
+    "longitud": {
+      "type": "float"
+    }
+  }
+}
